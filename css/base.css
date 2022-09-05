@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+li {
+  list-style: none;
+}
+body{
+  font: 12px/1.5 "Microsoft YaHei";
+  min-width: 340px;
+  max-width: 540px;
+  margin: 0 auto;
+  background-color: #636e72;
+}
